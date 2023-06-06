@@ -19,7 +19,7 @@
 
 .depoimento-conteudo p {
     max-width: 32ch;
-    font-family: 'Merriweather';
+    font-family: 'Merriweather',serif;
     font-style: italic;
     font-weight: 900;
     margin-bottom: 32px ;
